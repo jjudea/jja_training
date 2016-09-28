@@ -1,0 +1,202 @@
+[34m
+* Installing apt-transport-https
+[0m
+Ign http://extras.ubuntu.com trusty InRelease
+Hit https://apt.dockerproject.org ubuntu-trusty InRelease
+Ign http://pkg.jenkins-ci.org binary/ InRelease
+Hit https://apt.dockerproject.org ubuntu-trusty/main amd64 Packages
+Get:1 http://security.ubuntu.com trusty-security InRelease [65.9 kB]
+Get:2 https://apt.dockerproject.org ubuntu-trusty/main Translation-en_US
+Ign http://us.archive.ubuntu.com trusty InRelease
+Get:3 http://extras.ubuntu.com trusty Release.gpg [72 B]
+Ign https://apt.dockerproject.org ubuntu-trusty/main Translation-en_US
+Ign http://apt.puppetlabs.com trusty InRelease
+Ign https://apt.dockerproject.org ubuntu-trusty/main Translation-en
+Hit http://pkg.jenkins-ci.org binary/ Release.gpg
+Hit http://extras.ubuntu.com trusty Release
+Get:4 http://us.archive.ubuntu.com trusty-updates InRelease [65.9 kB]
+Hit http://pkg.jenkins-ci.org binary/ Release
+Hit http://extras.ubuntu.com trusty/main Sources
+Get:5 http://security.ubuntu.com trusty-security/main Sources [120 kB]
+Get:6 http://apt.puppetlabs.com trusty Release.gpg [836 B]
+Hit http://extras.ubuntu.com trusty/main amd64 Packages
+Hit http://pkg.jenkins-ci.org binary/ Packages
+Get:7 http://us.archive.ubuntu.com trusty-backports InRelease [65.9 kB]
+Hit http://extras.ubuntu.com trusty/main i386 Packages
+Get:8 http://security.ubuntu.com trusty-security/restricted Sources [4,064 B]
+Get:9 http://apt.puppetlabs.com trusty Release [54.2 kB]
+Err http://apt.puppetlabs.com trusty Release
+  
+Hit http://us.archive.ubuntu.com trusty Release.gpg
+Get:10 http://security.ubuntu.com trusty-security/universe Sources [42.5 kB]
+Get:11 http://security.ubuntu.com trusty-security/multiverse Sources [2,749 B]
+Get:12 http://us.archive.ubuntu.com trusty-updates/main Sources [383 kB]
+Get:13 http://us.archive.ubuntu.com trusty-updates/restricted Sources [5,360 B]
+Get:14 http://security.ubuntu.com trusty-security/main amd64 Packages [531 kB]
+Get:15 http://security.ubuntu.com trusty-security/restricted amd64 Packages [13.0 kB]
+Get:16 http://us.archive.ubuntu.com trusty-updates/universe Sources [165 kB]
+Ign http://extras.ubuntu.com trusty/main Translation-en_US
+Get:17 http://us.archive.ubuntu.com trusty-updates/multiverse Sources [7,126 B]
+Get:18 http://security.ubuntu.com trusty-security/universe amd64 Packages [137 kB]
+Ign http://extras.ubuntu.com trusty/main Translation-en
+Get:19 http://security.ubuntu.com trusty-security/multiverse amd64 Packages [4,995 B]
+Get:20 http://us.archive.ubuntu.com trusty-updates/main amd64 Packages [901 kB]
+Get:21 http://security.ubuntu.com trusty-security/main i386 Packages [492 kB]
+Ign http://pkg.jenkins-ci.org binary/ Translation-en_US
+Get:22 http://us.archive.ubuntu.com trusty-updates/restricted amd64 Packages [15.9 kB]
+Ign http://pkg.jenkins-ci.org binary/ Translation-en
+Get:23 http://security.ubuntu.com trusty-security/restricted i386 Packages [12.7 kB]
+Get:24 http://us.archive.ubuntu.com trusty-updates/universe amd64 Packages [375 kB]
+Get:25 http://security.ubuntu.com trusty-security/universe i386 Packages [137 kB]
+Get:26 http://us.archive.ubuntu.com trusty-updates/multiverse amd64 Packages [14.8 kB]
+Get:27 http://security.ubuntu.com trusty-security/multiverse i386 Packages [5,159 B]
+Hit http://security.ubuntu.com trusty-security/main Translation-en
+Get:28 http://us.archive.ubuntu.com trusty-updates/main i386 Packages [861 kB]
+Hit http://security.ubuntu.com trusty-security/multiverse Translation-en
+Hit http://security.ubuntu.com trusty-security/restricted Translation-en
+Get:29 http://us.archive.ubuntu.com trusty-updates/restricted i386 Packages [15.6 kB]
+Hit http://security.ubuntu.com trusty-security/universe Translation-en
+Get:30 http://us.archive.ubuntu.com trusty-updates/universe i386 Packages [377 kB]
+Get:31 http://us.archive.ubuntu.com trusty-updates/multiverse i386 Packages [15.2 kB]
+Get:32 http://us.archive.ubuntu.com trusty-updates/main Translation-en [437 kB]
+Get:33 http://us.archive.ubuntu.com trusty-updates/multiverse Translation-en [7,661 B]
+Get:34 http://us.archive.ubuntu.com trusty-updates/restricted Translation-en [3,699 B]
+Get:35 http://us.archive.ubuntu.com trusty-updates/universe Translation-en [198 kB]
+Get:36 http://us.archive.ubuntu.com trusty-backports/main Sources [9,626 B]
+Get:37 http://us.archive.ubuntu.com trusty-backports/restricted Sources [28 B]
+Get:38 http://us.archive.ubuntu.com trusty-backports/universe Sources [35.2 kB]
+Get:39 http://us.archive.ubuntu.com trusty-backports/multiverse Sources [1,898 B]
+Get:40 http://us.archive.ubuntu.com trusty-backports/main amd64 Packages [13.3 kB]
+Get:41 http://us.archive.ubuntu.com trusty-backports/restricted amd64 Packages [28 B]
+Get:42 http://us.archive.ubuntu.com trusty-backports/universe amd64 Packages [43.2 kB]
+Get:43 http://us.archive.ubuntu.com trusty-backports/multiverse amd64 Packages [1,571 B]
+Get:44 http://us.archive.ubuntu.com trusty-backports/main i386 Packages [13.3 kB]
+Get:45 http://us.archive.ubuntu.com trusty-backports/restricted i386 Packages [28 B]
+Get:46 http://us.archive.ubuntu.com trusty-backports/universe i386 Packages [43.2 kB]
+Get:47 http://us.archive.ubuntu.com trusty-backports/multiverse i386 Packages [1,552 B]
+Hit http://us.archive.ubuntu.com trusty-backports/main Translation-en
+Hit http://us.archive.ubuntu.com trusty-backports/multiverse Translation-en
+Hit http://us.archive.ubuntu.com trusty-backports/restricted Translation-en
+Hit http://us.archive.ubuntu.com trusty-backports/universe Translation-en
+Hit http://us.archive.ubuntu.com trusty Release
+Hit http://us.archive.ubuntu.com trusty/main Sources
+Hit http://us.archive.ubuntu.com trusty/restricted Sources
+Hit http://us.archive.ubuntu.com trusty/universe Sources
+Hit http://us.archive.ubuntu.com trusty/multiverse Sources
+Hit http://us.archive.ubuntu.com trusty/main amd64 Packages
+Hit http://us.archive.ubuntu.com trusty/restricted amd64 Packages
+Hit http://us.archive.ubuntu.com trusty/universe amd64 Packages
+Hit http://us.archive.ubuntu.com trusty/multiverse amd64 Packages
+Hit http://us.archive.ubuntu.com trusty/main i386 Packages
+Hit http://us.archive.ubuntu.com trusty/restricted i386 Packages
+Hit http://us.archive.ubuntu.com trusty/universe i386 Packages
+Hit http://us.archive.ubuntu.com trusty/multiverse i386 Packages
+Hit http://us.archive.ubuntu.com trusty/main Translation-en
+Hit http://us.archive.ubuntu.com trusty/multiverse Translation-en
+Hit http://us.archive.ubuntu.com trusty/restricted Translation-en
+Hit http://us.archive.ubuntu.com trusty/universe Translation-en
+Ign http://us.archive.ubuntu.com trusty/main Translation-en_US
+Ign http://us.archive.ubuntu.com trusty/multiverse Translation-en_US
+Ign http://us.archive.ubuntu.com trusty/restricted Translation-en_US
+Ign http://us.archive.ubuntu.com trusty/universe Translation-en_US
+Fetched 5,699 kB in 24s (228 kB/s)
+Reading package lists...
+W: An error occurred during the signature verification. The repository is not updated and the previous index files will be used. GPG error: http://apt.puppetlabs.com trusty Release: The following signatures couldn't be verified because the public key is not available: NO_PUBKEY 7F438280EF8D349F
+
+W: Failed to fetch http://apt.puppetlabs.com/dists/trusty/Release  
+
+W: Some index files failed to download. They have been ignored, or old ones used instead.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following packages will be upgraded:
+  apt-transport-https
+1 upgraded, 0 newly installed, 0 to remove and 376 not upgraded.
+Need to get 25.0 kB of archives.
+After this operation, 4,096 B disk space will be freed.
+Get:1 http://us.archive.ubuntu.com/ubuntu/ trusty-updates/main apt-transport-https amd64 1.0.1ubuntu2.14 [25.0 kB]
+Fetched 25.0 kB in 0s (757 kB/s)
+(Reading database ... 206449 files and directories currently installed.)
+Preparing to unpack .../apt-transport-https_1.0.1ubuntu2.14_amd64.deb ...
+Unpacking apt-transport-https (1.0.1ubuntu2.14) over (1.0.1ubuntu2.13) ...
+Setting up apt-transport-https (1.0.1ubuntu2.14) ...
+[34m
+* Installing APT package sources for Datadog
+[0m
+Executing: gpg --ignore-time-conflict --no-options --no-default-keyring --homedir /tmp/tmp.H7ehDA8vVl --no-auto-check-trustdb --trust-model always --keyring /etc/apt/trusted.gpg --primary-keyring /etc/apt/trusted.gpg --keyring /etc/apt/trusted.gpg.d/puppetlabs-pc1-keyring.gpg --recv-keys --keyserver hkp://keyserver.ubuntu.com:80 C7A7DA52
+gpg: requesting key C7A7DA52 from hkp server keyserver.ubuntu.com
+gpg: key C7A7DA52: public key "Datadog Packages <package@datadoghq.com>" imported
+gpg: Total number processed: 1
+gpg:               imported: 1  (RSA: 1)
+[34m
+* Installing the Datadog Agent package
+[0m
+Get:1 https://apt.datadoghq.com stable InRelease
+Ign https://apt.datadoghq.com stable InRelease
+Get:2 https://apt.datadoghq.com stable Release
+Get:3 https://apt.datadoghq.com stable/main amd64 Packages
+Get:4 https://apt.datadoghq.com stable/main i386 Packages
+Get:5 https://apt.datadoghq.com stable/main Translation-en_US
+Ign https://apt.datadoghq.com stable/main Translation-en_US
+Ign https://apt.datadoghq.com stable/main Translation-en
+Fetched 18.9 kB in 0s (30.6 kB/s)
+Reading package lists...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following NEW packages will be installed:
+  datadog-agent
+0 upgraded, 1 newly installed, 0 to remove and 376 not upgraded.
+Need to get 55.4 MB of archives.
+After this operation, 181 MB of additional disk space will be used.
+Fetched 55.4 MB in 10s (5,260 kB/s)
+Selecting previously unselected package datadog-agent.
+(Reading database ... 206449 files and directories currently installed.)
+Preparing to unpack .../datadog-agent_1%3a5.9.0-1_amd64.deb ...
+find: `/opt/datadog-agent/agent': No such file or directory
+Unpacking datadog-agent (1:5.9.0-1) ...
+Processing triggers for ureadahead (0.100.0-16) ...
+Setting up datadog-agent (1:5.9.0-1) ...
+Registering service datadog-agent
+ Adding system startup for /etc/init.d/datadog-agent ...
+   /etc/rc0.d/K20datadog-agent -> ../init.d/datadog-agent
+   /etc/rc1.d/K20datadog-agent -> ../init.d/datadog-agent
+   /etc/rc6.d/K20datadog-agent -> ../init.d/datadog-agent
+   /etc/rc2.d/S20datadog-agent -> ../init.d/datadog-agent
+   /etc/rc3.d/S20datadog-agent -> ../init.d/datadog-agent
+   /etc/rc4.d/S20datadog-agent -> ../init.d/datadog-agent
+   /etc/rc5.d/S20datadog-agent -> ../init.d/datadog-agent
+Enabling service datadog-agent
+Creating dd-agent group
+Creating dd-agent user
+Please supply a configuration file at /etc/dd-agent/datadog.conf or in the directory where the Agent is currently deployed.
+[34m
+* Adding your API key to the Agent configuration: /etc/dd-agent/datadog.conf
+[0m
+[34m* Starting the Agent...
+[0m
+ * Stopping Datadog Agent (stopping supervisord) datadog-agent
+   ...done.
+ * Starting Datadog Agent (using supervisord) datadog-agent
+   ...done.
+[32m
+Your Agent has started up for the first time. We're currently verifying that
+data is being submitted. You should see your Agent show up in Datadog shortly
+at:
+
+    https://app.datadoghq.com/infrastructure[0m
+
+Waiting for metrics.................................[32m
+
+Your Agent is running and functioning properly. It will continue to run in the
+background and submit metrics to Datadog.
+
+If you ever want to stop the Agent, run:
+
+    sudo /etc/init.d/datadog-agent stop
+
+And to run it again run:
+
+    sudo /etc/init.d/datadog-agent start
+
+[0m
